@@ -1,9 +1,12 @@
+
 .navbar{
-    
+
     
     nav{
         height: 3rem;
-        background-color: aliceblue;
+        background-color: rgb(80, 97, 97);
+        padding-left: 5rem;
+        padding-right: 5rem;
         ul{
             align-items: center;
             display: flex;
@@ -12,6 +15,9 @@
             height: 100%;
             a{
                 text-decoration: none;
+                color: black;
+                font-weight: 600;
+                font-size: 18px;
             }
         }
     

@@ -6,15 +6,15 @@
         },
         {
             "title":"Dogs",
-            "url":"/github"
+            "url":"/dogs"
         },
         {
             "title": "Cats",
-            "url": "/about"
+            "url": "/cats"
         },
         {
             "title": "Something",
-            "url": "/dog"
+            "url": "/Something"
         }
     ]
 }
