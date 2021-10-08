@@ -1,0 +1,16 @@
+$container-padding: 1rem; 
+
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+.container{
+    max-width: 975px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: $container-padding;
+    padding-right: $container-padding;
+    background-color: rgb(59, 71, 71);
+    height: 50rem;
+}
