@@ -1,9 +1,10 @@
 <div class="navbar">
 <nav>
 <ul>
-    {% for item in navigation.items %}
+    <li><a href="/">Home</a></li>
+    {% for item in dishes.items %}
     <li>    
-        <a href="{{ item.url }}">
+        <a href="/dishes/{{ item.title | slug }}">
             {{ item.title }}
         </a>
     </li>

@@ -1,0 +1,17 @@
+.card{
+    float: right;
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+    
+    li{
+        list-style: none;
+        padding-left: 1rem;
+        line-height: 2;
+    }
+    .h1{
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+}

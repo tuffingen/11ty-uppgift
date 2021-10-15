@@ -1,0 +1,56 @@
+{
+    "items": [
+        {
+            "title": "Kebabtallrik",
+            "descr": "kebab med pommes",
+            "ing": [
+                {
+                    "title": "275 g kebabkött"
+                },
+                {
+                    "title": "400 g pommes frites"
+                },
+                {
+                    "title": "2 tomater"
+                },
+                {
+                    "title": "1/2 gurka"
+                },
+                {
+                    "title": "4 salladsblad"
+                },
+                {
+                    "title": "röd kebabsås"
+                },
+                {
+                    "title": "vit kebabsås"
+                }
+            ],
+            "url": "/kbtallrik"
+        },
+        {
+            "title": "Gyrostallrik",
+            "descr": "gyros med pommes",
+            "ing": [],
+            "url": "/gyros"
+        },
+        {
+            "title": "Kebabrulle",
+            "descr": "gyros med pommes",
+            "ing": [],
+            "url": "/kbrulle"
+        },
+        {
+            "title": "Kebabpizza",
+            "descr": "gyros med pommes",
+            "ing": [],
+            "url": "/kbpizza"
+        },
+        {
+            "title": "Döner kebab",
+            "descr": "gyros med pommes",
+            "ing": [],
+            "url": "/hej"
+        }
+    ]
+}

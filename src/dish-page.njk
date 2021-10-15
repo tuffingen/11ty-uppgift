@@ -13,10 +13,11 @@ permalink: "dishes/{{ data.title | slug }}/index.html"
         <p>{{data.descr}}</p>
     </section>
 
-    <div class="card">
-    <ul>
+    
+    <ul class="card">
+        <li class="h1">Ingredienser</li>
         {%for item in data.ing %}
             <li> {{ item.title }} </li>
         {%endfor%}
     </ul>
-    </div>
+    
